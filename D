@@ -94,14 +94,14 @@ local ActualTypes = {
 local Properties = {
 	RoundFrame = {
 		BackgroundTransparency = 1,
-		Image = "http://www.roblox.com/asset/?id=5554237731",
+		Image = "http://www.roblox.com/asset/?id=14989441088",
 		ScaleType = Enum.ScaleType.Slice,
 		SliceCenter = Rect.new(3,3,297,297)
 	},
 	SmoothButton = {
 		AutoButtonColor = false,
 		BackgroundTransparency = 1,
-		Image = "http://www.roblox.com/asset/?id=5554237731",
+		Image = "http://www.roblox.com/asset/?id=14989441088",
 		ScaleType = Enum.ScaleType.Slice,
 		SliceCenter = Rect.new(3,3,297,297)
 	},
@@ -116,12 +116,12 @@ local Properties = {
 	},
 	Circle = {
 		BackgroundTransparency = 1,
-		Image = "http://www.roblox.com/asset/?id=5554831670"
+		Image = "http://www.roblox.com/asset/?id=14989441088"
 	},
 	CircleButton = {
 		BackgroundTransparency = 1,
 		AutoButtonColor = false,
-		Image = "http://www.roblox.com/asset/?id=5554831670"
+		Image = "http://www.roblox.com/asset/?id=14989441088"
 	},
 	Frame = {
 		BackgroundTransparency = 1,
@@ -159,13 +159,13 @@ local Properties = {
 		Name = "More",
 		AutoButtonColor = false,
 		BackgroundTransparency = 1,
-		Image = "http://www.roblox.com/asset/?id=5555108481",
+		Image = "http://www.roblox.com/asset/?id=14989441088",
 		Size = UDim2.fromOffset(20,20),
 		Position = UDim2.fromScale(1,0.5) - UDim2.fromOffset(25,10)
 	},
 	NavBar = {
 		Name = "SheetToggle",
-		Image = "http://www.roblox.com/asset/?id=5576439039",
+		Image = "http://www.roblox.com/asset/?id=14989441088",
 		BackgroundTransparency = 1,
 		Size = UDim2.fromOffset(20,20),
 		Position = UDim2.fromOffset(5,5),
