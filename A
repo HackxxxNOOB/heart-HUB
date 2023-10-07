@@ -730,7 +730,7 @@ function _G.Window(text,logo)
 		LogoBar.BackgroundTransparency = 1.000
 		LogoBar.Position = UDim2.new(-0.0854563117, 0, 2.21267605, 0)
 		LogoBar.Size = UDim2.new(0, 85, 0, 85)
-		LogoBar.Image = "http://www.roblox.com/asset/?id="..tostring(logo)
+		LogoBar.Image = "http://www.roblox.com/asset/?id="tostring(logo)
 		LogoBar.ScaleType = Enum.ScaleType.Crop
 
 		local MainPage = Instance.new("Frame")
